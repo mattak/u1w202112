@@ -1,0 +1,3 @@
+[submodule "submodule/assets-polygon-dungeon"]
+	path = submodule/assets-polygon-dungeon
+	url = git@github.com:mattak/assets-polygon-dungeon
