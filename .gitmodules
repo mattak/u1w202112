@@ -1,3 +1,12 @@
 [submodule "submodule/assets-polygon-dungeon"]
 	path = submodule/assets-polygon-dungeon
 	url = git@github.com:mattak/assets-polygon-dungeon
+[submodule "submodule/assets-free-speed-trees"]
+	path = submodule/assets-free-speed-trees
+	url = git@github.com:mattak/assets-free-speed-trees.git
+[submodule "submodule/assets-melee-warrior-animations"]
+	path = submodule/assets-melee-warrior-animations
+	url = git@github.com:mattak/assets-melee-warrior-animations.git
+[submodule "submodule/assets-terrain-sample-assets"]
+	path = submodule/assets-terrain-sample-assets
+	url = git@github.com:mattak/assets-terrain-sample-assets.git
